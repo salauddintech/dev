@@ -1,0 +1,9 @@
+{
+	"name": "adffirstsam",
+	"location": "westeurope",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "3ba2ab50-46ab-46c0-a951-ab8844b11fb9",
+		"tenantId": "d78f7362-832c-4715-8e12-cc7bd574144c"
+	}
+}
