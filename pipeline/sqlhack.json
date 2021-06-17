@@ -48,7 +48,7 @@
 								"referenceName": "AzureDataLakeStoragelink",
 								"type": "LinkedServiceReference"
 							},
-							"path": "snowflake"
+							"path": "lego/errors/themes"
 						}
 					},
 					"dataIntegrationUnits": 2,
