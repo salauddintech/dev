@@ -1,0 +1,9 @@
+{
+	"name": "sqlhack",
+	"properties": {
+		"folder": {
+			"name": "dev"
+		},
+		"annotations": []
+	}
+}
