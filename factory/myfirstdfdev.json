@@ -1,0 +1,9 @@
+{
+	"name": "myfirstdfdev",
+	"location": "northeurope",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "76ad966e-5bbd-4897-ae5c-c80f7fbefeaa",
+		"tenantId": "2ac2e0d5-2e79-4409-98df-5830b22f1a9d"
+	}
+}
