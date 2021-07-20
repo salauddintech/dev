@@ -29,6 +29,11 @@
 				}
 			}
 		],
+		"parameters": {
+			"tablenamecopy": {
+				"type": "array"
+			}
+		},
 		"annotations": []
 	}
 }
