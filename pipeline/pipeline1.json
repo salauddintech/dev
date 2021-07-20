@@ -3,13 +3,10 @@
 	"properties": {
 		"activities": [
 			{
-				"name": "Wait1",
-				"type": "Wait",
+				"name": "ForEach1",
+				"type": "ForEach",
 				"dependsOn": [],
-				"userProperties": [],
-				"typeProperties": {
-					"waitTimeInSeconds": 1
-				}
+				"userProperties": []
 			}
 		],
 		"annotations": []
