@@ -39,6 +39,11 @@
 				}
 			}
 		],
+		"parameters": {
+			"tablename": {
+				"type": "array"
+			}
+		},
 		"annotations": []
 	}
 }
