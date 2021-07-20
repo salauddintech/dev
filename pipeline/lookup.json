@@ -35,7 +35,7 @@
 						"referenceName": "copy",
 						"type": "PipelineReference"
 					},
-					"waitOnCompletion": true
+					"waitOnCompletion": false
 				}
 			}
 		],
